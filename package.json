@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "http://kodiri.github.io/koinalysis",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "moment": "^2.18.1",
     "pusher": "^2.2.0",
     "react": "^16.7.0",
